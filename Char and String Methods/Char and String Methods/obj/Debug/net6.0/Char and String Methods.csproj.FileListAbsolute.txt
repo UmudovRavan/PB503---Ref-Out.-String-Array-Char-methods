@@ -1,0 +1,14 @@
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\obj\Debug\net6.0\Char and String Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\obj\Debug\net6.0\Char and String Methods.AssemblyInfoInputs.cache
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\obj\Debug\net6.0\Char and String Methods.AssemblyInfo.cs
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\obj\Debug\net6.0\Char and String Methods.csproj.CoreCompileInputs.cache
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\bin\Debug\net6.0\Char and String Methods.exe
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\bin\Debug\net6.0\Char and String Methods.deps.json
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\bin\Debug\net6.0\Char and String Methods.runtimeconfig.json
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\bin\Debug\net6.0\Char and String Methods.dll
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\bin\Debug\net6.0\Char and String Methods.pdb
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\obj\Debug\net6.0\Char and String Methods.dll
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\obj\Debug\net6.0\refint\Char and String Methods.dll
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\obj\Debug\net6.0\Char and String Methods.pdb
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\obj\Debug\net6.0\Char and String Methods.genruntimeconfig.cache
+C:\Users\Ravan\source\repos\Char and String Methods\Char and String Methods\obj\Debug\net6.0\ref\Char and String Methods.dll
